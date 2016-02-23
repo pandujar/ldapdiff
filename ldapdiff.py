@@ -1,4 +1,4 @@
-#!/usr/bin/env
+#!/usr/bin/env python
 #Monitor changes in certain ldap groups and create pagerduty alerts when users are added/removed
 import sys, ldap, json, requests
 
